@@ -10,7 +10,8 @@ public class Aeropuerto {
     String pais;
     String ciudad;
     int numeroPistas;
-    int numeroAviones;
+    int listAviones[] = new int [100];
+
     
     List<Avion> listAviones = new ArrayList<Avion>();
     listAviones.add(new Avion())
