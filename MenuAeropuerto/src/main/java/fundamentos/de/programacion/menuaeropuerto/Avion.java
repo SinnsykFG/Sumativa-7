@@ -24,7 +24,7 @@ public class Avion {
         this.cantidadActualPasajeros = rd.nextInt(this.cantidadMaxAsientos + 1);
         this.estadoAvion = true;
         
-        
+    //debo intertar los getters y setters.    
         
         
         
