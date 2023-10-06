@@ -12,7 +12,8 @@ public class Aeropuerto {
     int numeroPistas;
     int numeroAviones;
     
-    List<Avion> lista = new ArrayList<Avion>();
+    List<Avion> listAviones = new ArrayList<Avion>();
+    listAviones.add(new Avion())
     
     
     
