@@ -31,7 +31,11 @@ public class MenuAeropuerto {
         }
         
         switch (opcion){
-            
+            case 1
+            for (int a = 1; a<(listAviones.size();a++)
+            System.out.println("Id de avión:"+ a);
+            System.out.println(lista.get(i).getid());
+            break;
         }
     }
 }
